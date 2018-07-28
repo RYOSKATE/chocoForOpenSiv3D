@@ -1,3 +1,7 @@
+OpenSiv3D用のchocolateyパッケージ作成プロジェクト(非公式)
+
+以下、デフォルトのReadMe
+
 ﻿## Summary
 How do I create packages? See https://chocolatey.org/docs/create-packages
 
